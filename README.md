@@ -1,6 +1,7 @@
 ## COVID-19 TRACKER
 
 This is the guided project based on react which gives the information about the number of covid-19 cases in the world as well as in the particular country as selected by the user.
+check this out at:- https://pranav2608.github.io/covid-tracker/
 
 ### ABOUT
 
