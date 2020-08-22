@@ -8,3 +8,5 @@ check this out at:- https://pranav2608.github.io/covid-tracker/
 This react app uses React hooks, material UI and certain other dependencies which are useful for the app. This app uses LineChart Barchart in order to display statistical data of thr daily covid-19 cases of the region selected by the user.
 Enhanced my knowledge about react functionality through this app. 
 
+P.S : - Although i prefer to use react functional components , but here the main app component had to be class based as the API working was not suited with the functional react component,rest all components i preferred to make functional in the project as it makes code readability easier for the people
+
